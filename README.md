@@ -1,2 +1,1 @@
-# simple_shell
-my own shell
+This project consists of creating our own version of a simple shell which is capable of interacting directly with the user through commands, we create a system that is capable of handling a path that is in charge of detecting if the arguments entered by the user are found and then executing them, differentiating what type they are, whether they are built-in commands or not, to go through the forking process.
